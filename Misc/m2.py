@@ -1,3 +1,3 @@
 var_a: str = True
 
-print(var_a == str)
+print(var_a)

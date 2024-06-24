@@ -12,5 +12,5 @@ formatted_mins = f"{mins:02}"
 formatted_segs = f"{segs:02}"
 
 
-print(f"{formatted_horas}:{formatted_mins}:{formatted_segs}")
-print(24*60)
+#print(f"{formatted_horas}:{formatted_mins}:{formatted_segs}")
+print(bin(segundos) == bin(int))
