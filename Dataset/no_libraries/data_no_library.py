@@ -14,11 +14,7 @@ with open("Dataset\Online Sales Data.csv","r") as file:
         primera_columna.append(value[0])
         segunda_columna.append(value[1])
         tercera_columna.append(value[2])
-        
-        
-        
-        
-        
+          
     int_primera = []
     int_segunda = []
     int_tercera = []
